@@ -7,7 +7,7 @@
   - Calculated measures of central tendency
     
 - 2 Performed EDA on the Google Play Store dataset
-- 
+  
   - Data Cleaning
   - Data Analysis
   - Feature engineering
